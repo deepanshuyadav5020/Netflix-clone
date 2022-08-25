@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0bda70ab.css",
-    "main.js": "/static/js/main.8ab37ec9.js",
-    "static/js/787.440c4889.chunk.js": "/static/js/787.440c4889.chunk.js",
-    "index.html": "/index.html",
-    "main.0bda70ab.css.map": "/static/css/main.0bda70ab.css.map",
-    "main.8ab37ec9.js.map": "/static/js/main.8ab37ec9.js.map",
-    "787.440c4889.chunk.js.map": "/static/js/787.440c4889.chunk.js.map"
+    "main.css": "https://deepanshuyadav5020.github.io/Netflix-clone/static/css/main.0bda70ab.css",
+    "main.js": "https://deepanshuyadav5020.github.io/Netflix-clone/static/js/main.73cd5fde.js",
+    "static/js/787.440c4889.chunk.js": "https://deepanshuyadav5020.github.io/Netflix-clone/static/js/787.440c4889.chunk.js",
+    "index.html": "https://deepanshuyadav5020.github.io/Netflix-clone/index.html",
+    "main.0bda70ab.css.map": "https://deepanshuyadav5020.github.io/Netflix-clone/static/css/main.0bda70ab.css.map",
+    "main.73cd5fde.js.map": "https://deepanshuyadav5020.github.io/Netflix-clone/static/js/main.73cd5fde.js.map",
+    "787.440c4889.chunk.js.map": "https://deepanshuyadav5020.github.io/Netflix-clone/static/js/787.440c4889.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bda70ab.css",
-    "static/js/main.8ab37ec9.js"
+    "static/js/main.73cd5fde.js"
   ]
 }
